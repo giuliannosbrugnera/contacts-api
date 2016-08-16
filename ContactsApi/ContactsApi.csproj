@@ -163,6 +163,8 @@
     </Compile>
     <Compile Include="Models\Contacts.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\ContactsRepository.cs" />
+    <Compile Include="Repository\IContactsRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Areas\HelpPage\HelpPage.css" />
