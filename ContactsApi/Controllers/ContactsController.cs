@@ -1,6 +1,6 @@
 ﻿using ContactsApi.Models;
 using ContactsApi.Repository;
-using System.Web.Mvc;
+using Microsoft.AspNetCore.Mvc;
 
 using System.Collections.Generic;
 
